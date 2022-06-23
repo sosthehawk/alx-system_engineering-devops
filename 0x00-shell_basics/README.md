@@ -10,4 +10,4 @@
 9-firstdirdeletion - a scritpt that deletes dir homerun that is in the /tpm directory
 10-back - a script that changes the working dir to the previous one
 11-lists - a script that lists all files in the current dir and the parent working dir  and the /boot dir, in long format
-
+12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile12-file_type - a script that prints the type of file named iamafile
